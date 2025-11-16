@@ -1,0 +1,27 @@
+*****npm install bcryptjs*****
+ -A library to help you hash passwords.
+
+*****npm install colors*******
+ -get color and styles in node.js from console
+
+*****npm install cors*******
+ -CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+
+*****npm install dotenv*******
+ -dotenv
+Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
+
+*****npm install morgan*******
+ -HTTP request logger middleware for node.js
+
+*****npm install mongoose*******
+ -Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports Node.js and Deno (alpha).
+
+*****npm install express*******
+ -Fast, unopinionated, minimalist web framework for Node.js.
+
+*****npm install jsonwebtoken*******
+-JSON Web Token is a way of securely transmitting information between two parties. It is widely used in web applications for authentication and authorization purposes.
+
+*****npm install nodemon*******
+ -Nodemon is used to automatically restart a Node.js server when changes are detected in the source code, which saves developers time and increases productivity.
