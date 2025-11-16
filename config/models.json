@@ -1,0 +1,8 @@
+{
+  "claude_haiku": {
+    "name": "Claude Haiku",
+    "version": "4.5",
+    "enabled": true,
+    "notes": "Enabled for all clients. Override with env CLAUDE_HAIKU_ENABLED=false"
+  }
+}
