@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# dotenv environment file (do not commit secrets)
+.env
+
+# Logs
+npm-debug.log*
+logs
+*.log
